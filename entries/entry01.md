@@ -2,7 +2,7 @@
 ### 11/16/2020
 
 Today I've been exploring different tools for my freedom project from the Freedom Project Tool list (https://docs.google.com/document/d/1oJFrErlAZvB-0V923QGOm4X3CwiceJsKot2R6Jz8Mdc/edit).
-As I explore two of the tools that may help me with my freedom project, which are ReactJS (https://reactjs.org) and Firebase (https://firebase.google.com).
+I explored two of the Freedom Project tools from the list that may help me with my freedom project, which are ReactJS (https://reactjs.org) and Firebase (https://firebase.google.com).
 
 Throughout the Engineering Design Process, I have been defining my problem (finding and exploring tools) and researching what each tool works and how it can apply to my project. First I define my problem, which is finding Freedom project tools that can apply to my freedom project. Then I research each FP tool (firebase) to see if it would apply to my project. I learn that Firebase is storage that helps the user to keep their information. Google doc sets an example of Firebase where the user would type their information and being storage for them to go back. Firebase helps the user refresh the page, and the information would still be there without being removed.
 
