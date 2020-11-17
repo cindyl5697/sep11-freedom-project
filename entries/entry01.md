@@ -1,5 +1,5 @@
 # Entry 1
-##### 11/16/2020
+#### 11/16/2020
 
 Today I've been exploring different tools for my freedom project from the class list (https://docs.google.com/document/d/1oJFrErlAZvB-0V923QGOm4X3CwiceJsKot2R6Jz8Mdc/edit).
 As I explore two of the tools that may help me with my freedom project, which are ReactJS (https://reactjs.org) and Firebase (https://firebase.google.com).
