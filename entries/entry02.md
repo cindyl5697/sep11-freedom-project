@@ -31,9 +31,27 @@ Through the Engineering Design Process, I have defined my problem of creating my
 ```
 <br>
 
-In this code shown above, the <body> section contains the title of the project in the h1 tag. To test out the "Enter" button and our input, we use a form placeholder tag (line 3 of the code) follow by an input tag (line 4), which shows that the user can type input or the task they put. After the input tag in line 4, we use the button tag in line 5 to show that once the user inputs their task and click the button, their task would be in the console.log. Although this is our testing code, we would this code something that we have in mind for the project. The last two <script src= > is the code from firebase to help us make the testing product clickable.
-<br>
+In this code shown above, the <body> section contains the title of the project using the code ```<h1> Testing Firebase </h1>```.  To test out the "Enter" button and our input, we start off using  ```<form placeholder = "text"> </form>``(line 3 of the code) follow by an input tag ```<input id = "usertext" type="text" placeholder = "Enter your text"> </input>```(line 4), which shows that the user can type input or the task they put. After the input tag in line 4, we use the button tag in line 5 ```<button id="button" onclick="data()"> Enter </button>```  to show that once the user inputs their task and click the button, their task would be in the console.log. Although this is our testing code, we would this code something that we have in mind for the project. The last three set of Javascript code are from firebase to help us make the testing product clickable, as shown below.
+``` <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js">
+</script>
+ <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-analytics.js"></script><script>
+ var firebaseConfig = {
+ apiKey: "AIzaSyCCIdGo1CZ8uUnUrmeo-vwfQgkr3PLs4R0",
+ authDomain: "tinkering-52eea.firebaseapp.com",
+ databaseURL: "https://tinkering-52eea.firebaseio.com",
+ projectId: "tinkering-52eea",
+ storageBucket: "tinkering-52eea.appspot.com",
+ messagingSenderId: "102162150983",
+ appId: "1:102162150983:web:340d7b6fceb0b17134e362",
+ measurementId: "G-XCRFENWZWE"
+ };
+ // Initialize Firebase
+ firebase.initializeApp(firebaseConfig);
+ firebase.analytics();
+ </script>
+ ```
 
+ <br>
 I have decided to use Firebase for my freedom project as my final freedom project tool. For now, my main focus is to build a to-do list. Since my focus right now is creating a to-do list, Firebase helps me store my users' to-do tasks into the list, so whenever my users can come back to/refresh the page, they can mark tasks as completed, or they can add more tasks to the list. I think making a to-do list (and a timer on the side) can help everyone. Students, like me, can use it as a way to study and keep up with their tasks while having a study timer to track time. Adults can use it as an ingredient or grocery list, and a timer can help them keep aware of their cooking time or any timer usage. Although there are many to-do list apps out there, I want to make sure my to-do list is simple and easy to use for everyone. A lot of to-list contains grouping (where you have to categorize your to-do tasks), having able to comments on your task bullet point, timed due date, or task completion percentage. My idea of a to-do list is minimalist and easy to use without having distractions. I want my product to have a clear and clean visual that easy to use and doesn't need too much thought while putting your task into the application (To-Do list title, add tasks in bullet point form, and an optional due date).
 
 <br>
