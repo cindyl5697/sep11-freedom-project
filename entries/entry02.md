@@ -68,6 +68,7 @@ The skills I used are How to Google and How to read. My skill in how to google h
 <br>
 </br>
 
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
