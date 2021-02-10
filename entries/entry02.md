@@ -14,6 +14,7 @@ In this code shown below, the <body> section contains the title of the project u
 <br>
 <br>
 ```
+html:
 <body>
  <h1> Testing Firebase </h1>
  <form placeholder = "text"> </form>
