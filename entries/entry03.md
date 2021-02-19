@@ -112,6 +112,6 @@ The skills I used are How to Google, How to read, debugging, and embrace failure
 
 
 
-[Previous](entry02 md) | [Next](entry04 md)
+[Previous](entry02.md) | [Next](entry04.md)
 
-[Home](  /README md)
+[Home](../README md)
