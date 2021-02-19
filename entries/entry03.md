@@ -4,18 +4,25 @@
 Today I continue to explore [Firebase](https://firebase.google com) from the [Freedom Project Tool list](https://docs google.com/document/d/1oJFrErlAZvB-0V923QGOm4X3CwiceJsKot2R6Jz8Mdc/edit) by learning deeper about Firebase, as well as continuing to test some code out I made my final decision to use [Firebase](https://firebase google.com) as my final Freedom Project tool  I also continue to explore and learn "how to make" my freedom project, to-do list by watching this [youtube tutorial](https://www.youtube.com/results?search_query=javascript+firebase) 
 _________________
 In my previous Engineering Design Process, I have already defined the problem of creating my project, which is the struggle of students and adults forgetting their tasks  To solve that problem, I research the tool and know how it can apply to my project  I also think about the solutions that can help to correspond to solve real-life problems.
+
 <br>
 Through the Engineering Design Process, I am still researching Firebase and how Firebase can help me build my project  This time, I learn from [this website](https://firebasetutorials.com/what-can-firebase-do/) that Firebase has four categories Develop, Quality, Analytics, and Grow  I focus on the first half of the main category Develop, which contains Authentication, Database, and Storage. 
+
 <br> 
 Authentication considers as registration for your apps such as username/email and password  The database is considered as storage, or accessible for your data  There are two types of databases: Real-time database and Cloud Firestore  Both databases help to sync and storage the data  The "Storage" helps the user to store the information/task they have input  I found this very important to my project because user's task(s) needs to be store for the user to keep their task(s) in mind (In the following paragraph 2 would fully explain my knowledge of the category Develop in firebase).
+
 <br>
 At the same time, I am also in the "Steps of brainstorming" even more possible and started to plan the most promising solution of my project  To create a project with firebase isn’t easy, and I need to think of more possibilities for others to use my **to-do list**  I also start planning my project with my partner, Nina Li  We first started to plan the base of our project (HTML and SCRIPT JS) with the help of the [youtube tutorial](https://www.youtube.com/results?search_query=javascript+firebase).  
+<br>
 _________________
 To explain the category Develops that contains Authentication, Database, and Storage from paragraph four: 
 Authentication considers as registration for your apps such as username/email and password  The idea of Authentication such as sign-in/log-in for our social media or email that interact daily  I don't think I need it, for now, I think it will be helpful in the future  
-There are two types of databases, as I stated above paragraph: Real-time database and Cloud Firestore  Both databases help to sync and storage the data  
+There are two types of databases, as I stated above paragraph: Real-time database and Cloud Firestore. Both databases help to sync and storage the data  
+<br>
 The Real-time Database means when you add some data into your Firebase app, and it will instantly be added into the Firebase Realtime Database  To cooperate in society (given example from the website) such as text message, you send some text and instantly through the real-time database, database informs the user of the text message from the notification 
+<br>
 The Cloud Firestore allows you to store your data in the cloud  It can sync across all your devices and share them among multiple users  Cloud Firestore helps my freedom project of a "TO-DO List" by allowing the user to input their task easily  The tasks that the user put would automatically be placed  
+<br>
 The "Storage" helps the user to store the information/task they have input  I found this very important to my project because the task needs to be store for the user to keep in mind  Without storage, there's no point in using my project, if it only one-time use  Firebase would allow the user and me to store the information  Take google Doc, as an example, every time the user refreshes the page/re-enter the google doc, and their information would still be store and sync without anything removed or reset 
 <br>
 </br>
