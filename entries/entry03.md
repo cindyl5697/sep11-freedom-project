@@ -31,15 +31,39 @@ A TO-DO List helps students, like me, allows us to keep up with their tasks whil
 <br>
 </br>
 _________________
-In this code shown below (is the continuation/additional input of the code from the previous entry), the <body> section contains a title of the task selection using the code ```<p class="header"> Task </p>```(line 1)  ``` <div class="container">
-<div class="the_task_container">``` the following 2 lines shows the class containers for the code that will be explain in the following code snippet  In the next following 2 lines of code helps us introduce the button for the task ```<div class = "the_task_data">
-<p id="the_task_title"></p>``` The div tag helps contain the task title, which is a placeholder when you enter your task  ```<div id="the_task_tools">``` (line 6) is demonstrate the tools options such as done, edit, and delete  ``` <button id="task_done_button" onclick="task_done();"> <i class="fa fa-check"> </i> </button>``` (line 7) demonstrate a placeholder check mark emoji, which is known as “ <i class="fa fa-check”>”  This button allows the user to click and mark their task as done  ```<button id="task_edit_button" onclick="task_edit();"> <i class="fa fa-pencil"> </i> </button>```(line 8) allows user to click and edit the task based on the “<i class="fa fa-pencil”>” (a pencil emoji)  Finally the ```<button id="task_delete_button" onclick="task_delete();"> <i class="fa fa-trash"> </i> </button>``` (line 9) allows user to delete their task off the list  Line 13-18 ```<p class="header" > Finish Task </p>
+In this code shown below (is the continuation/additional input of the code from the previous entry), the <body> section contains a title of the task selection using the code:
+```<p class="header"> Task </p>```(line 1). 
+
+``` <div class="container">
+<div class="the_task_container">
+```
+the following 2 lines shows the class containers for the code that will be explain in the following code snippet  In the next following 2 lines of code helps us introduce the button for the task 
+```<div class = "the_task_data">
+<p id="the_task_title"></p>
+```
+The div tag helps contain the task title, which is a placeholder when you enter your task  ```<div id="the_task_tools">``` (line 6) is demonstrate the tools options such as done, edit, and delete 
+``` <button id="task_done_button" onclick="task_done();"> <i class="fa fa-check"> </i> </button>``` 
+(line 7) demonstrate a placeholder check mark emoji, which is known as “<i class="fa fa-check”>”". This button allows the user to click and mark their task as done 
+
+```
+```
+<button id="task_edit_button" onclick="task_edit();"> <i class="fa fa-pencil"> </i> </button>
+```
+```
+
+(line 8) allows user to click and edit the task based on the “<i class="fa fa-pencil”>”" (a pencil emoji)  Finally the 
+```<button id="task_delete_button" onclick="task_delete();"> <i class="fa fa-trash"> </i> </button>```
+(line 9) allows user to delete their task off the list. 
+Line 13-18 
+```<p class="header" > Finish Task </p>
 <div class="container">
 
 <div class="task_container">
 <div class = "task_data">
 <p id="task_title">Task Title 1 </p>
-</div>``` show the lines of “Finish Task” which have a container of the with a placeholder task title  This means that after your task is completed, the task will fall into the “Finish task” section  
+</div>
+``` 
+show the lines of “Finish Task” which have a container of the with a placeholder task title  This means that after your task is completed, the task will fall into the “Finish task” section  
 
 <br>
 <br>
@@ -95,7 +119,7 @@ console log(text);
 }
 ```
 
-In SCRIPT JS  After you write a task and click enter, the input will be store in the console log  the following 3 lines in the SCRIPT.JS
+In SCRIPT JS  After you write a task and click enter, the input will be store in the console log  the following 3 lines in the SCRIPT.JS:
 
 ```
 function add_task(){
