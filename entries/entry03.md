@@ -123,7 +123,7 @@ console log("task_delete");
 }
 ``` 
 Based off from the [youtube tutorial](https://www.youtube.com/results?search_query=javascript+firebase), we also add:
-```HTML
+```javascript
 function data() {
 var text = document getElementById("usertext") value;
 console log(text);
