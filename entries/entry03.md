@@ -43,22 +43,22 @@ A TO-DO List helps students, like me, allows us to keep up with their tasks, whi
 _________________
 
 In this code shown below (is the continuation/additional input of the code from the previous entry), the <body> section contains a title of the task selection using the code (line 1):
-```
+```HTML
 <p class="header"> Task </p>
 ```
-``` 
+``` HTML
 <div class="container">
 <div class="the_task_container">
 ```
 The two lines shown above are the class containers for the code that will be explained in the following code snippet. The next following 2 lines of code help us introduce the button for the task.
-```
+```HTML
 <div class = "the_task_data">
 <p id="the_task_title"></p>
 ```
 
 The div tag helps contain the task title, which is a placeholder when you enter your task.  ```<div id="the_task_tools">``` (line 6) is demonstrate the tools options such as done, edit, and delete.
 
-``` <button id="task_done_button" onclick="task_done();"> <i class="fa fa-check"> </i> </button> ``` (line 7) demonstrate a placeholder check mark emoji, which is known as “<i class="fa fa-check”>”".This button allows the user to click and mark their task as done. 
+```HTML <button id="task_done_button" onclick="task_done();"> <i class="fa fa-check"> </i> </button> ``` (line 7) demonstrate a placeholder check mark emoji, which is known as “<i class="fa fa-check”>”".This button allows the user to click and mark their task as done. 
 
 Line 8 shows a similar button function that allows the user to click and edit the task with the button "<i class="fa fa-pencil”>"(a pencil emoji). 
 
@@ -68,7 +68,7 @@ The lines of “Finish Task” have a container with a placeholder task title.
 This means that after your task is completed, the task will fall into the “Finish task” section.
 Line 13-18 below:
 >
-```
+```HTML
 <p class="header" > Finish Task </p>
 <div class="container">
 <div class="task_container">
@@ -79,7 +79,7 @@ Line 13-18 below:
 <br>
 The code shown below contains the code we have done:
 
-```
+```HTML
 HTML:
 <!--input to-do task part-->
 <p class="header"> Task </p>
@@ -122,7 +122,7 @@ console log("task_delete");
 }
 ``` 
 Based off from the [youtube tutorial](https://www.youtube.com/results?search_query=javascript+firebase), we also add:
-```
+```HTML
 function data() {
 var text = document getElementById("usertext") value;
 console log(text);
@@ -132,7 +132,7 @@ Based on the code above, when the user input a task and press "Enter", the input
 
 In SCRIPT JS, After you write a task and click enter, the input will be store in the console log  the following 3 lines in the SCRIPT.JS:
 
-```
+```HTML
 function add_task(){
 console log("add_task");
 }

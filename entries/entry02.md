@@ -14,7 +14,7 @@ _________________
 In this code shown below, the <body> section contains the title of the project using the code ```<h1> Testing Firebase </h1>```.  To test out the "Enter" button and our input, we start off using  ```<form placeholder = "text"> </form>```(line 3 of the code) follow by an input tag ```<input id = "usertext" type="text" placeholder = "Enter your text"> </input>```(line 4), which shows that the user can type input or the task they put. After the input tag in line 4, we use the button tag in line 5 ```<button id="button" onclick="data()"> Enter </button>```  to show that once the user inputs their task and click the button, their inputs task would be in the console.log. Although this is our testing code, we would this code something that we have in mind for the project.
 <br>
 <br>
-```
+```HTML
 HTML:
 <body>
  <h1> Testing Firebase </h1>
