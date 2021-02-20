@@ -50,7 +50,7 @@ In this code shown below (is the continuation/additional input of the code from 
 <div class="container">
 <div class="the_task_container">
 ```
-The two lines shown **above** are the class containers for the code that will be explained in the **following** code snippet. The next following 2 lines of code help us introduce the button for the task.
+The two lines are shown **above** are the class containers for the code that will be explained in the **following** code snippet. The next following 2 lines of code help us introduce the button for the task.
 ```HTML
 <div class = "the_task_data">
 <p id="the_task_title"></p>
@@ -85,7 +85,7 @@ console log(text);
 }
 ```
 
-The follwing 3 lines in the SCRIPT.JS, After you write a task and click enter, the input will be store in the console.log:
+The following 3 lines in the SCRIPT.JS, After you write a task and click enter, the input will be store in the console.log:
 
 ```javascript
 function add_task(){
@@ -104,6 +104,7 @@ console log("task_delete");
 The code in the SCRIPT.JS helps to store the function of the button. If the user wants to mark the task done using the button of the placeholder checkmark; it will store the function of the button “done”. By pressing the checkmark button, It'll also show “task_done” in the console log  Since this is our testing code, this code is the base foundation that helps us to keep up the function for the next step of the project (even if the code doesn't fully work yet).
 <br>
 </br>
+Here is the codes that we have done/explain: 
 ````HTML
 HTML:
 <!--input to-do task part-->
