@@ -7,6 +7,13 @@ _________________
 
 In my previous Engineering Design Process, I have already defined the problem of creating my project, which is the struggle of students and adults forgetting their tasks  To solve that problem, I research the tool and know how it can apply to my project  I also think about the solutions that can help to correspond to solve real-life problems.
 <br>
+
+Through the Engineering Design Process, I am still researching Firebase and how Firebase can help me build my project  This time, I learn from [this website](https://firebasetutorials.com/what-can-firebase-do/) that Firebase has four categories Develop, Quality, Analytics, and Grow  I focus on the first half of the main category Develop, which contains Authentication, Database, and Storage.
+<br>
+
+Authentication considers as registration for your apps such as username/email and password  The database is considered as storage, or accessible for your data  There are two types of databases: Real-time database and Cloud Firestore  Both databases help to sync and storage the data  The "Storage" helps the user to store the information/task they have input  I found this very important to my project because user's task(s) needs to be store for the user to keep their task(s) in mind (In the following paragraph 2 would fully explain my knowledge of the category Develop in firebase).
+<br>
+
  At the same time, I am also in the "Steps of brainstorming" even more possible and started to plan the most promising solution of my project  To create a project with firebase isn’t easy, and I need to think of more possibilities for others to use my <b>to-do list</b>  I also start planning my project with my partner, Nina Li  We first started to plan the base of our project (HTML and SCRIPT.JS) with the help of the <a href="https://www.youtube.com/watch?v=pSVHDk4hK8Y"> youtube tutorial</a>.
 <br>
 
