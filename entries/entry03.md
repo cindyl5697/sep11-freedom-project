@@ -76,10 +76,35 @@ Line 13-18 below:
 <p id="task_title">Task Title 1 </p>
 </div>
 ```
-<br>
-The code shown below contains the code we have done:
 
-```HTML
+Based off from the [youtube tutorial](https://www.youtube.com/results?search_query=javascript+firebase), we also add the code below demostrates that when the user input a task and press "Enter", the input would appears on the console.log.
+```javascript
+function data() {
+var text = document getElementById("usertext") value;
+console log(text);
+}
+```
+
+The follwing 3 lines in the SCRIPT.JS, After you write a task and click enter, the input will be store in the console.log:
+
+```javascript
+function add_task(){
+console log("add_task");
+}
+function task_done(){
+console log("task_done");
+}
+function task_edit(){
+console log("task_edit");
+}
+function task_delete(){
+console log("task_delete");
+}
+```
+The code in the SCRIPT.JS helps to store the function of the button. If the user wants to mark the task done using the button of the placeholder checkmark; it will store the function of the button “done”. By pressing the checkmark button, It'll also show “task_done” in the console log  Since this is our testing code, this code is the base foundation that helps us to keep up the function for the next step of the project (even if the code doesn't fully work yet).
+<br>
+</br>
+````HTML
 HTML:
 <!--input to-do task part-->
 <p class="header"> Task </p>
@@ -102,7 +127,8 @@ button id="task_done_button" onclick="task_done();"> <i class="fa fa-check"> </i
 <div class = "task_data">
 <p id="task_title">Task Title 1 </p>
 </div>
-```
+````
+
 ```javascript
 SCRIPT JS:
 function data() {
@@ -121,35 +147,7 @@ console log("task_edit");
 function task_delete(){
 console log("task_delete");
 }
-``` 
-Based off from the [youtube tutorial](https://www.youtube.com/results?search_query=javascript+firebase), we also add:
-```javascript
-function data() {
-var text = document getElementById("usertext") value;
-console log(text);
-}
 ```
-Based on the code above, when the user input a task and press "Enter", the input would appears on the console.log.
-
-In SCRIPT JS, After you write a task and click enter, the input will be store in the console log  the following 3 lines in the SCRIPT.JS:
-
-```javascript
-function add_task(){
-console log("add_task");
-}
-function task_done(){
-console log("task_done");
-}
-function task_edit(){
-console log("task_edit");
-}
-function task_delete(){
-console log("task_delete");
-}
-```
-The code in the SCRIPT.JS helps to store the function of the button. If the user wants to mark the task done using the button of the placeholder checkmark; it will store the function of the button “done”. By pressing the checkmark button, It'll also show “task_done” in the console log  Since this is our testing code, this code is the base foundation that helps us to keep up the function for the next step of the project (even if the code doesn't fully work yet).
-<br>
-</br>
 _________________
 The skills I used are How to read and debug/debugging. My skill in how to read by the filter (command-F) allows me to find relevant information. It also leads me skims through the page more quickly without spending too much time on irrelevant ideas. From [this website](https://firebasetutorials.com/what-can-firebase-do/) and skims through the page, I learned that Firebase has four categories, Develop, Quality, Analytics, and Grow. I already talk about the first half of the first categories, Develop, above. 
 
