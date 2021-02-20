@@ -7,7 +7,7 @@ _________________
 
 In my previous Engineering Design Process, I have already defined the problem of creating my project, which is the struggle of students and adults forgetting their tasks. To solve that problem, I research the tool and know how it can apply to my project. I also think about the solutions that can help to correspond to solve real-life problems.
 <br>
-_________________
+___
 
 Through this Engineering Design Process, I am still researching Firebase and how Firebase can help me build my project. This time, I learn from [this website](https://firebasetutorials.com/what-can-firebase-do/) that Firebase has four categories Develop, Quality, Analytics, and Grow.  I focus on the first half of the main category Develop, which contains Authentication, Database, and Storage.
 <br>
