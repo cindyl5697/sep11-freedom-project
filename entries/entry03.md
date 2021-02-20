@@ -102,7 +102,8 @@ button id="task_done_button" onclick="task_done();"> <i class="fa fa-check"> </i
 <div class = "task_data">
 <p id="task_title">Task Title 1 </p>
 </div>
-
+```
+```javascript
 SCRIPT JS:
 function data() {
 var text = document getElementById("usertext") value;
@@ -132,7 +133,7 @@ Based on the code above, when the user input a task and press "Enter", the input
 
 In SCRIPT JS, After you write a task and click enter, the input will be store in the console log  the following 3 lines in the SCRIPT.JS:
 
-```HTML
+```javascript
 function add_task(){
 console log("add_task");
 }
