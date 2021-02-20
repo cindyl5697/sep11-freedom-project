@@ -53,7 +53,7 @@ The div tag helps contain the task title, which is a placeholder when you enter 
 
 Line 8 shows a similar button function allows user to click and edit the task with the button "<i class="fa fa-pencil”>"(a pencil emoji). 
 
-Finally the line 9 allows user to delete their task off the list with the function of the button "<i class="fa fa-trash”>" (a trash emoji). 
+Finally, the line 9 allows user to delete their task off the list with the function of the button "<i class="fa fa-trash”>" (a trash emoji). 
 
 The lines of “Finish Task” which have a container with a placeholder task title.
 This means that after your task is completed, the task will fall into the “Finish task” section.
@@ -121,6 +121,7 @@ var text = document getElementById("usertext") value;
 console log(text);
 }
 ```
+Based on the code above, when the user input a task and press "Enter", the input would appears on the console.log.
 
 In SCRIPT JS, After you write a task and click enter, the input will be store in the console log  the following 3 lines in the SCRIPT.JS:
 
