@@ -105,7 +105,7 @@ _________________
 The code in the SCRIPT.JS helps to store the function of the button. If the user wants to mark the task done using the button of the placeholder checkmark; it will store the function of the button “done”. By pressing the checkmark button, It'll also show “task_done” in the console log  Since this is our testing code, this code is the base foundation that helps us to keep up the function for the next step of the project (even if the code doesn't fully work yet).
 <br>
 </br>
-Here is the codes that we have done/explain: 
+Here is the codes that we have currently done/explain: 
 ````HTML
 HTML:
 <!--input to-do task part-->
