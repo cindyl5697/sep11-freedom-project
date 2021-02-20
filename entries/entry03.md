@@ -8,7 +8,7 @@ _________________
 In my previous Engineering Design Process, I have already defined the problem of creating my project, which is the struggle of students and adults forgetting their tasks  To solve that problem, I research the tool and know how it can apply to my project  I also think about the solutions that can help to correspond to solve real-life problems.
 
 <br>
- the "Steps of brainstorming" even more possible and started to plan the most promising solution of my project  To create a project with firebase isn’t easy, and I need to think of more possibilities for others to use my **to-do list**  I also start planning my project with my partner, Nina Li  We first started to plan the base of our project (HTML and SCRIPT JS) with the help of the [youtube tutorial](https://www.youtube.com/results?search_query=javascript+firebase).
+ the "Steps of brainstorming" even more possible and started to plan the most promising solution of my project  To create a project with firebase isn’t easy, and I need to think of more possibilities for others to use my **to-do list**  I also start planning my project with my partner, Nina Li  We first started to plan the base of our project (HTML and SCRIPT JS) with the help of the <a href="https://www.youtube.com/watch?v=pSVHDk4hK8Y"> youtube tutorial</a>.
 <br>
 
 _________________
@@ -18,15 +18,19 @@ Authentication considers as registration for your apps such as username/email an
 There are two types of databases, as I stated above paragraph: Real-time database and Cloud Firestore. Both databases help to sync and storage the data.
 
 <br>
+
 The Real-time Database means when you add some data into your Firebase app, and it will instantly be added into the Firebase Realtime Database  To cooperate in society (given example from the website) such as text message, you send some text and instantly through the real-time database, database informs the user of the text message from the notification.
 
 <br>
+
 The Cloud Firestore allows you to store your data in the cloud  It can sync across all your devices and share them among multiple users  Cloud Firestore helps my freedom project of a "TO-DO List" by allowing the user to input their task easily  The tasks that the user put would automatically be placed.
 
 <br>
+
 The "Storage" helps the user to store the information/task they have input  I found this very important to my project because the task needs to be store for the user to keep in mind  Without storage, there's no point in using my project if it only one-time use  Firebase would allow the user and me to store the information  Take google Doc, as an example, every time the user refreshes the page/re-enter the google doc, and their information would still be store and sync without anything removed or reset.
 
 <br>
+
 I have decided to use **Firebase** for my freedom project as my final freedom project tool  Right now, my main focus is to plan and build a **TO-DO List**  I learn that Firebase helps me store my users' to-do tasks  Whenever my users can come back to/refresh the page, they can mark tasks as completed, or they can add more tasks to the list
 A TO-DO List helps students, like me, allows us to keep up with their tasks while adults can use it for anything such as a grocery list or keep their tasks in one place  My idea of a to-do list is minimalist and easy to use without having distractions compare to other TO-DO List that is cause confusion and complication.
 <br>
@@ -95,6 +99,7 @@ button id="task_done_button" onclick="task_done();"> <i class="fa fa-check"> </i
 <div class = "task_data">
 <p id="task_title">Task Title 1 </p>
 </div>
+
 SCRIPT JS:
 function data() {
 var text = document getElementById("usertext") value;
