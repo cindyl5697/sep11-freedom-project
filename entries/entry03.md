@@ -50,7 +50,7 @@ In this code shown below (is the continuation/additional input of the code from 
 <div class="container">
 <div class="the_task_container">
 ```
-The two lines shown <u>above</u> are the class containers for the code that will be explained in the <u>following</u> code snippet. The next following 2 lines of code help us introduce the button for the task.
+The two lines shown **above** are the class containers for the code that will be explained in the **following** code snippet. The next following 2 lines of code help us introduce the button for the task.
 ```HTML
 <div class = "the_task_data">
 <p id="the_task_title"></p>
