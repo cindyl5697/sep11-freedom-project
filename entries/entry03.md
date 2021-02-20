@@ -26,7 +26,7 @@ The Cloud Firestore allows you to store your data in the cloud  It can sync acro
 
 The "Storage" helps the user to store the information/task they have input  I found this very important to my project because the task needs to be store for the user to keep in mind  Without storage, there's no point in using my project if it only one-time use  Firebase would allow the user and me to store the information  Take google Doc, as an example, every time the user refreshes the page/re-enter the google doc, and their information would still be store and sync without anything removed or reset.
 <br>
----
+
 I have decided to use **Firebase** for my freedom project as my final freedom project tool  Right now, my main focus is to plan and build a **TO-DO List**  I learn that Firebase helps me store my users' to-do tasks  Whenever my users can come back to/refresh the page, they can mark tasks as completed, or they can add more tasks to the list
 A TO-DO List helps students, like me, allows us to keep up with their tasks while adults can use it for anything such as a grocery list or keep their tasks in one place  My idea of a to-do list is minimalist and easy to use without having distractions compare to other TO-DO List that is cause confusion and complication.
 <br>
