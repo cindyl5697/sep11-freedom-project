@@ -43,6 +43,7 @@ A TO-DO List helps students, like me, allows us to keep up with their tasks, whi
 _________________
 
 In this code shown below is the continuation/additional input of the code from the previous entry (An explanation of the code):
+<br>
 The <body> section contains a title of the task selection using the code (line 1):
 ```HTML
 <p class="header"> Task </p>
