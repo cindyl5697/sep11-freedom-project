@@ -67,9 +67,11 @@ Line 13-18 below:
 <p id="task_title">Task Title 1 </p>
 </div>
 ```
+
 <br>
 <br>
 The code shown below contains the code we have done:
+
 ```
 HTML:
 <!--input to-do task part-->
@@ -93,8 +95,6 @@ button id="task_done_button" onclick="task_done();"> <i class="fa fa-check"> </i
 <div class = "task_data">
 <p id="task_title">Task Title 1 </p>
 </div>
-```
-```
 SCRIPT JS:
 function data() {
 var text = document getElementById("usertext") value;
