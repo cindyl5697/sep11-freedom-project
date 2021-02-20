@@ -4,6 +4,8 @@
 Today I continue to explore [Firebase](https://firebase.google.com) from the [Freedom Project Tool list](https://docs.google.com/document/d/1oJFrErlAZvB-0V923QGOm4X3CwiceJsKot2R6Jz8Mdc/edit) by learning deeper about Firebase, as well as continuing to test some code out I made my final decision to use [Firebase](https://firebase.google.com) as my final Freedom Project tool  I also continue to explore and learn "how to make" my freedom project, to-do list by watching this [youtube tutorial](https://www.youtube.com/results?search_query=javascript+firebase).
 
 _________________
+_________________
+
 
 In my previous Engineering Design Process, I have already defined the problem of creating my project, which is the struggle of students and adults forgetting their tasks  To solve that problem, I research the tool and know how it can apply to my project  I also think about the solutions that can help to correspond to solve real-life problems.
 <br>
@@ -19,6 +21,8 @@ Authentication considers as registration for your apps such as username/email an
 <br>
 
 _________________
+_________________
+
 
 To explain the category Develops that contains Authentication, Database, and Storage from paragraph four:
 <br>
