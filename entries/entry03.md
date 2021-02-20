@@ -8,7 +8,7 @@ _________________
 In my previous Engineering Design Process, I have already defined the problem of creating my project, which is the struggle of students and adults forgetting their tasks  To solve that problem, I research the tool and know how it can apply to my project  I also think about the solutions that can help to correspond to solve real-life problems.
 
 <br>
- the "Steps of brainstorming" even more possible and started to plan the most promising solution of my project  To create a project with firebase isn’t easy, and I need to think of more possibilities for others to use my **to-do list**  I also start planning my project with my partner, Nina Li  We first started to plan the base of our project (HTML and SCRIPT JS) with the help of the <a href="https://www.youtube.com/watch?v=pSVHDk4hK8Y"> youtube tutorial</a>.
+ the "Steps of brainstorming" even more possible and started to plan the most promising solution of my project  To create a project with firebase isn’t easy, and I need to think of more possibilities for others to use my <b>to-do list</b>  I also start planning my project with my partner, Nina Li  We first started to plan the base of our project (HTML and SCRIPT JS) with the help of the <a href="https://www.youtube.com/watch?v=pSVHDk4hK8Y"> youtube tutorial</a>.
 <br>
 
 _________________
