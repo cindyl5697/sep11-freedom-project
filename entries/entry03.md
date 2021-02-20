@@ -1,5 +1,5 @@
 # Entry 3
-##### 02/10/2021
+### 02/10/2021
 
 Today I continue to explore [Firebase](https://firebase.google.com) from the [Freedom Project Tool list](https://docs.google.com/document/d/1oJFrErlAZvB-0V923QGOm4X3CwiceJsKot2R6Jz8Mdc/edit) by learning deeper about Firebase, as well as continuing to test some code out I made my final decision to use [Firebase](https://firebase.google.com) as my final Freedom Project tool  I also continue to explore and learn "how to make" my freedom project, to-do list by watching this [youtube tutorial](https://www.youtube.com/results?search_query=javascript+firebase).
 
