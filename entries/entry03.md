@@ -22,7 +22,7 @@ _________________
 
 To explain the category Develops that contains Authentication, Database, and Storage from paragraph four:
 <br>
-Authentication considers as registration for your apps such as username/email and passwords. The idea of Authentication such as sign-in/log-in for our social media or email that interact daily. I don't think I need it, for now, I think it will be helpful in the future.
+Authentication considers as registration for your apps such as username/email and passwords. The idea of Authentication such as sign-in/log-in for our social media or email that interact daily. I do not think I need it for my project.
 There are two types of databases, as I stated above paragraph: Real-time database and Cloud Firestore. Both databases help to sync and storage the data.
 <br>
 
@@ -42,7 +42,7 @@ A TO-DO List helps students, like me, allows us to keep up with their tasks, whi
 
 _________________
 
-In this code shown below is the continuation/additional input of the code from the previous entry (An explanation of the code).
+This code shown below is the continuation/additional input of the code from the previous entry (An explanation of the code).
 <br>
 The <body> section contains a title of the task selection using the code (line 1):
 ```HTML
@@ -52,22 +52,26 @@ The <body> section contains a title of the task selection using the code (line 1
 <div class="container">
 <div class="the_task_container">
 ```
-The two lines are shown **above** are the class containers for the code that will be explained in the **following** code snippet. The next following 2 lines of code help us introduce the button for the task.
+The two lines are shown **above** are the class containers for the code that will be explained in the **following** code snippet. The next following two lines of code help us introduce the button for the task.
 ```HTML
 <div class = "the_task_data">
 <p id="the_task_title"></p>
 ```
 
-The div tag helps contain the task title, which is a placeholder when you enter your task.  ```<div id="the_task_tools">``` (line 6) is demonstrate the tools options such as done, edit, and delete.
-
-```HTML <button id="task_done_button" onclick="task_done();"> <i class="fa fa-check"> </i> </button> ``` (line 7) demonstrate a placeholder check mark emoji, which is known as “<i class="fa fa-check”>”".This button allows the user to click and mark their task as done. 
-
-Line 8 shows a similar button function that allows the user to click and edit the task with the button "<i class="fa fa-pencil”>"(a pencil emoji). 
-
-Finally, line 9 allows user to delete their task off the list with the function of the button "<i class="fa fa-trash”>" (a trash emoji). 
+Inside div tag helps contain the tools of done, edit, and delete icons shown below.
+```HTML
+<div id="the_task_tools"> //line 6
+            <button id="task_done_button" onclick="task_done();"> <i class="fa fa-check"> </i>  </button> // line 7
+            <button id="task_edit_button" onclick="task_edit();"> <i class="fa fa-pencil"> </i>  </button> // line 8
+            <button id="task_delete_button" onclick="task_delete();"> <i class="fa fa-trash"> </i>  </button>// line 9
+``` 
+Line 6 demonstrates the div tag that will contain the tool buttons such as done, edit, and delete.
+Line 7 demonstrates a button that allows the user to click and mark their task as "done" using the placeholder checkmark icon, ```<i class="fa fa-check”>”```
+Line 8 shows an edit button that allows the user to click and edit the task with the button of a pencil icon. ```<i class="fa fa-pencil”>```
+Line 9 allows user to delete their task off the list with the button that would show a trash icon. ```<i class="fa fa-trash”>``` 
 
 The lines of “Finish Task” have a container with a placeholder task title.
-This means that after your task is completed, the task will fall into the “Finish task” section.
+It means that after your task is completed, the task will fall into the “Finish task” section.
 Line 13-18 below:
 >
 ```HTML
@@ -87,7 +91,7 @@ console log(text);
 }
 ```
 
-The following 3 lines in the SCRIPT.JS, After you write a task and click enter, the input will be store in the console.log:
+The following three lines in the SCRIPT.JS, After you write a task and click enter, the input will be store in the console.log:
 
 ```javascript
 function add_task(){
@@ -104,7 +108,7 @@ console log("task_delete");
 }
 ```
 _________________
-The code in the SCRIPT.JS helps to store the function of the button. If the user wants to mark the task done using the button of the placeholder checkmark; it will store the function of the button “done”. By pressing the checkmark button, It'll also show “task_done” in the console log  Since this is our testing code, this code is the base foundation that helps us to keep up the function for the next step of the project (even if the code doesn't fully work yet).
+The code in the SCRIPT.JS helps to store the function of the button. If the user wants to mark the task done using the button with the checkmark; it will store the function of the button “done, and show “task_done” in the console.log.  It is our testing code, so the code is the base foundation that helps us to keep up the function for the next step of the project. For now, the code doesn't fully work yet.
 <br>
 </br>
 Here is the codes that we have currently done/explain: 
@@ -155,7 +159,7 @@ console log("task_delete");
 _________________
 The skills I used are How to read and debug/debugging. My skill in how to read by the filter (command-F) allows me to find relevant information. It also leads me skims through the page more quickly without spending too much time on irrelevant ideas. From [this website](https://firebasetutorials.com/what-can-firebase-do/) and skims through the page, I learned that Firebase has four categories, Develop, Quality, Analytics, and Grow. I already talk about the first half of the first categories, Develop, above. 
 
-As I developed a basic knowledge/foundation of my project code, I learn how to debug multiple codes out. I continue to follow the [youtube turtorial](https://www.youtube.com/watch?v=pSVHDk4hK8Y) and continue to tinkling my project. Although it is frustrating to debug the code, I realized that debugging codes makes my future coding more easily and effectively for my project. I think the skills "How to read" have to help me learn more basic history or summary of my project as the skills “debugging” will also appear a lot on my journey on this creative project. It allows me to use them for my future steps as I continue to be in the process of building this project.
+As I developed a basic knowledge/foundation of my project code, I learn how to debug multiple codes out. I continue to follow the [youtube turtorial](https://www.youtube.com/watch?v=pSVHDk4hK8Y) and continue to tinkling my project. Although it is frustrating to debug the code, I realized that debugging codes makes my future coding more easily and effectively for my project. The skills "How to read" have to help me learn more basic history or summary of my project as the skills “debugging” will also appear a lot on my journey on this creative project. It allows me to use them for my future steps as I continue to be in the process of building this project.
 
 _________________
 
