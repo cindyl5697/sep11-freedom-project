@@ -36,7 +36,7 @@ The "Storage" helps the user to store the information/task they have input. I fo
 <br>
 _________________
 
-I have decided to use **Firebase** for my freedom project as my final freedom project tool. Right now, my main focus is to plan and build a **TO-DO List**.  I learn that Firebase helps me store my users' to-do tasks. Whenever my users can come back to/refresh the page, they can mark tasks as completed, or they can add more tasks to the list.
+I have decided to use **Firebase** for my freedom project as my final freedom project tool. Right now, my main focus is to plan and build a **TO-DO List**.  I learn that Firebase helps me store my users' to-do tasks. Whenever my users can come back to/refresh the page, they can mark tasks as completed, or they can add more tasks to the list. I am also in the process of learning the difference between a real-time database and a firestore. 
 A TO-DO List helps students, like me, allows us to keep up with their tasks, while adults can use it for anything such as a grocery list or keep their tasks in one place. My idea of a to-do list is minimalist and simple to use without having distractions compare to other TO-DO List that is cause confusion and complication.
 <br>
 
