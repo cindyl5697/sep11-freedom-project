@@ -44,18 +44,19 @@ _________________
 
 This code shown below is the continuation/additional input of the code from the previous entry (An explanation of the code).
 <br>
-The <body> section contains a title of the task selection using the code (line 1):
+</br>
+The <body> section contains a title of the task section (line 1), and line 2 + 3 <div> tags help to contain the following lines of code:
 ```HTML
-<p class="header"> Task </p>
+<p class="header"> Task </p> // line 1 
 ```
 ``` HTML
-<div class="container">
-<div class="the_task_container">
+<div class="container"> // line 2 
+<div class="the_task_container"> line 3
 ```
-The two lines are shown **above** are the class containers for the code that will be explained in the **following** code snippet. The next following two lines of code help us introduce the button for the task.
+Line 4 and 5 help us introduce the button for the task.
 ```HTML
-<div class = "the_task_data">
-<p id="the_task_title"></p>
+<div class = "the_task_data"> // line 4
+<p id="the_task_title"></p> // line 5
 ```
 
 Inside div tag helps contain the tools of done, edit, and delete icons shown below.
@@ -67,20 +68,23 @@ Inside div tag helps contain the tools of done, edit, and delete icons shown bel
 ``` 
 Line 6 demonstrates the div tag that will contain the tool buttons such as done, edit, and delete.
 Line 7 demonstrates a button that allows the user to click and mark their task as "done" using the placeholder checkmark icon, ```<i class="fa fa-check”>”```
-Line 8 shows an edit button that allows the user to click and edit the task with the button of a pencil icon. ```<i class="fa fa-pencil”>```
+Line 8 allows the user to click and edit the task with the button of a pencil icon. ```<i class="fa fa-pencil”>```
 Line 9 allows user to delete their task off the list with the button that would show a trash icon. ```<i class="fa fa-trash”>``` 
 
 The lines of “Finish Task” have a container with a placeholder task title.
 It means that after your task is completed, the task will fall into the “Finish task” section.
-Line 13-18 below:
+Line 13-21 below:
 >
 ```HTML
-<p class="header" > Finish Task </p>
-<div class="container">
-<div class="task_container">
-<div class = "task_data">
-<p id="task_title">Task Title 1 </p>
-</div>
+<p class="header" > Finish Task </p> //line 13 
+<p class="header" > Finish Task </p> //line 14
+    <div class="container"> // line 15
+      <div class="task_container"> // line 16
+        <div class = "task_data"> // line 17
+          <p id="task_title">Task Title 1 </p> // line 18
+        </div> // line 19
+      </div> // line 20
+    </div> // line 21
 ```
 
 Based off from the [youtube tutorial](https://www.youtube.com/results?search_query=javascript+firebase), we also add the code below demostrates that when the user input a task and press "Enter", the input would appears on the console.log.
