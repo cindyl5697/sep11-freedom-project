@@ -107,10 +107,11 @@ function task_delete(){
 console log("task_delete");
 }
 ```
-_________________
+
 The code in the SCRIPT.JS helps to store the function of the button. If the user wants to mark the task done using the button with the checkmark; it will store the function of the button “done, and show “task_done” in the console.log.  It is our testing code, so the code is the base foundation that helps us to keep up the function for the next step of the project. For now, the code doesn't fully work yet.
 <br>
 </br>
+_________
 Here is the codes that we have currently done/explain: 
 ````HTML
 HTML:
