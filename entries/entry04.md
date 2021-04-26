@@ -98,7 +98,7 @@ function task_delete(){
 ```
 The code line 1-2 above allows us to know which know collection document we want to grab. Although the code above is incomplete, we are still trying to figure out how it works. I learn that .get() and doc are very important in firestore because they will get the document information from the firestore. In other words, it will get the data from Firestore and apply it to the HTML as I'm currently researching more about it.
 
-(TO BE UPDATED BY TOMORROW MORNING, STILL DOING IN THE PROCESS OF DOING THE CODE BELOW RIGHT NOW). 
+(TO BE UPDATED, STILL DOING IN THE PROCESS OF DOING THE CODE BELOW). 
 
 _________________
 
