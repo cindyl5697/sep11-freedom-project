@@ -68,7 +68,7 @@ The code below show our currently TESTING code we did:
 ```
 
 The code above demonstrates buttons for the task to edit, delete or mark task done. Our current plan is to make the to-do list easier to use. We also include a selection for "Finish Task." Although this is our testing code, we are still trying to make the most efficient to-do list possible.
-
+(TO BE UPDATED, STILL DOING IN THE PROCESS OF DOING THE CODE BELOW). 
 
 ```js
 var db = firebase.firestore();
