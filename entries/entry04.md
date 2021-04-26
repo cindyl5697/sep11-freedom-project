@@ -35,9 +35,10 @@ The first script tag allows us to make the code work in Firebase, allowing Fireb
       firebase.initializeApp(firebaseConfig);
       firebase.firestore();
     </script>
-    ```
+```
 
 The code below show our currently TESTING code we did:
+
 ```html
  <!-- input to-do task part -->
     <p class="header"> Task </p>
@@ -64,7 +65,8 @@ The code below show our currently TESTING code we did:
         </div>
       </div>
     </div>
-    ```
+```
+
 The code above demonstrates buttons for the task to edit, delete or mark task done. Our current plan is to make the to-do list easier to use. We also include a selection for "Finish Task." Although this is our testing code, we are still trying to make the most efficient to-do list possible.
 
 
@@ -72,7 +74,6 @@ The code above demonstrates buttons for the task to edit, delete or mark task do
 var db = firebase.firestore();
 db.collection("lists")get().then((doc) => {
 })
-
 
 //4
 function data() {
