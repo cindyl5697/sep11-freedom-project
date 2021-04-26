@@ -68,7 +68,7 @@ The code below show our currently TESTING code we did:
 ```
 
 The code above demonstrates buttons for the task to edit, delete or mark task done. Our current plan is to make the to-do list easier to use. We also include a selection for "Finish Task." Although this is our testing code, we are still trying to make the most efficient to-do list possible.
-(TO BE UPDATED, STILL DOING IN THE PROCESS OF DOING THE CODE BELOW). 
+
 
 ```js
 var db = firebase.firestore();
@@ -97,6 +97,8 @@ function task_delete(){
 }
 ```
 The code line 1-2 above allows us to know which know collection document we want to grab. Although the code above is incomplete, we are still trying to figure out how it works. I learn that .get() and doc are very important in firestore because they will get the document information from the firestore. In other words, it will get the data from Firestore and apply it to the HTML (currently researching more about it).
+
+(TO BE UPDATED BY TOMORROW MORNING, STILL DOING IN THE PROCESS OF DOING THE CODE BELOW RIGHT NOW). 
 
 _________________
 
