@@ -9,9 +9,9 @@ For my project, I am making a **TO-DO LIST**. This blog will walk through my pro
 
 ## Links
 
-[Product:](https://cindyl5697.github.io/SEP11-Cindy-Nina-FP/) https://cindyl5697.github.io/SEP11-Cindy-Nina-FP/
+Product :  https://cindyl5697.github.io/SEP11-Cindy-Nina-FP/
 
-[Presentation :](https://docs.google.com/presentation/d/1Y7oXYCHGzULVal5NHQbJWpJFIezlNyaMvGYY4W0Cx1Q/edit?usp=sharing) https://docs.google.com/presentation/d/1Y7oXYCHGzULVal5NHQbJWpJFIezlNyaMvGYY4W0Cx1Q/edit?usp=sharing
+Presentation : https://docs.google.com/presentation/d/1Y7oXYCHGzULVal5NHQbJWpJFIezlNyaMvGYY4W0Cx1Q/edit?usp=sharing
 
 ## Implications
 X
