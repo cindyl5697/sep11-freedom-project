@@ -2,16 +2,16 @@
 by Cindy Li (Partner: Nina Li)
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about _present  our freedom project based on our freedom project tools and what we have learn throughout this year_. The purpose of this blog is to _explain our process in making this freedom project_.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a **TO-DO LIST**. This blog will walk through my process of independently studying **Google Firebase** in order to make a TO-DO LIST.
 
 ## Links
 
-Product
+[Product:](https://cindyl5697.github.io/SEP11-Cindy-Nina-FP/) https://cindyl5697.github.io/SEP11-Cindy-Nina-FP/
 
-Presentation
+[Presentation :](https://docs.google.com/presentation/d/1Y7oXYCHGzULVal5NHQbJWpJFIezlNyaMvGYY4W0Cx1Q/edit?usp=sharing) https://docs.google.com/presentation/d/1Y7oXYCHGzULVal5NHQbJWpJFIezlNyaMvGYY4W0Cx1Q/edit?usp=sharing
 
 ## Implications
 X
