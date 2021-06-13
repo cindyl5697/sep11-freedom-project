@@ -2,7 +2,7 @@
 by Cindy Li (Partner: Nina Li)
 
 ## Context
-The "Freedom Project" for SEP11 is all about _present  our freedom project based on our freedom project tools and what we have learn throughout this year_. The purpose of this blog is to _explain our process in making this freedom project_.
+The "Freedom Project" for SEP11 is all about _present our freedom project based on our freedom project tools and what we have learned throughout this year_. The purpose of this blog is to _explain our process in making this freedom project_.
 
 ## Content
 For my project, I am making a **TO-DO LIST**. This blog will walk through my process of independently studying **Google Firebase** in order to make a TO-DO LIST.
