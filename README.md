@@ -2,20 +2,19 @@
 by Cindy Li (Partner: Nina Li)
 
 ## Context
-The "Freedom Project" for SEP11 is all about _present our freedom project based on our freedom project tools and what we have learned throughout this year_. The purpose of this blog is to _explain our process in making this freedom project_.
+The "Freedom Project" for SEP11 is all about **making an application and present my freedom project through our freedom project tools and Javascript that we have learned throughout this year **. The purpose of this blog is to _explain my process in making this freedom project with Javascript and Google Firebase_.
 
 ## Content
 For my project, I am making a **TO-DO LIST**. This blog will walk through my process of independently studying **Google Firebase** in order to make a TO-DO LIST.
 
 ## Links
 
-Product :  https://cindyl5697.github.io/SEP11-Cindy-Nina-FP/
+[Product](https://cindyl5697.github.io/SEP11-Cindy-Nina-FP/)
 
-Presentation : https://docs.google.com/presentation/d/1Y7oXYCHGzULVal5NHQbJWpJFIezlNyaMvGYY4W0Cx1Q/edit?usp=sharing
+[Presentation Slides](https://docs.google.com/presentation/d/1Y7oXYCHGzULVal5NHQbJWpJFIezlNyaMvGYY4W0Cx1Q/edit?usp=sharing)
+[Presentation Video](https://drive.google.com/file/d/1rPK3Cr8O7KryJJdF7C28gTWj6cvQ8wrz/view?usp=sharing)
 
 ## Implications
-X
-
 ---
 
 * [Blog Entry 1](entries/entry01.md)
