@@ -16,7 +16,7 @@ For my project, I am making a **TO-DO LIST**. This blog will walk through my pro
 [Presentation Video](https://drive.google.com/file/d/1rPK3Cr8O7KryJJdF7C28gTWj6cvQ8wrz/view?usp=sharing)
 
 ## Implications
-###### The project, TODO List, helps people organized and store their essential tasks all in one place. Although there are many TODO List available, I think my TODO List is a straightforward application that I can use every day. 
+####  The project, TODO List, helps people organized and store their essential tasks all in one place. Although there are many TODO List available, I think my TODO List is a straightforward application that I can use every day. 
 ---
 
 * [Blog Entry 1](entries/entry01.md)
