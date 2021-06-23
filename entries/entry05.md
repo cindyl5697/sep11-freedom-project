@@ -40,10 +40,12 @@ function toDo(text){
   var allTrash = document.querySelectorAll('.gg-trash');
   allTrash.forEach(function(allTrash, trashIcon){
     allTrash.addEventListener("click",function(event){
-      var remove = event.target.parentElement;
+  var remove = event.target.parentElement;
       remove.style.display = "none";
     ``` 
+    
     To set an example of making the icon work, we use a loop function to that allow the user to click on the trash button and their task would be deleted. 
+    
     ```js 
       db.collection("todolist").get().then((snapshot) => {
         snapshot.docs.forEach(doc => {
@@ -53,11 +55,12 @@ function toDo(text){
     });
   });
   ``` 
+  
  At the same time, when the user clicked on the trash icon, the user's input task(s) is deleted in both Google Firebase and the page. This demonstrates that whenever the user refreshes the page, their deleted task would disappear. 
-  ```
-  output.innerHTML += text;
-  ```
-The output makes a "p" tag, which means whenever the user inputs the task through the add button, ```output.innerHTML += text```allows users to input and add their task into the TODO List. 
+ 
+  ```output.innerHTML += text; ```
+  
+The output makes a "p" tag, which means whenever the user inputs the task through the add button, ```output.innerHTML += text``` allows users to input and add their task into the TODO List. 
 _________________
 
 
