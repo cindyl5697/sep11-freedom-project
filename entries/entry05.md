@@ -13,15 +13,14 @@ _________________
 I am using **Firebase** for my freedom project as my final freedom project tool. This time, I am creating a firebase code that allows me to incoperate fireabase into my project and store user's input more efficiently.
 
 Since we have make a workable TODO List, here is a code snippets explain our a part our TODO List. 
-```js 
+```JS
 function toDo(text){
   var output = document.createElement('p'); 
  
  ```
  The code above show that we created a function call toDO and its parameter (text) that helps us make the functions/actions work. 
  
- ```js
- 
+ ```JS
   // adds task to todo
   document.querySelector('#todo').appendChild(output);
   
@@ -34,25 +33,22 @@ function toDo(text){
   var trashIcon = document.createElement('span');
   output.appendChild(trashIcon);
   trashIcon.classList.add('gg-trash');
-  
   ```
-  The code above is the add, complete, and delete icons. 
+
+The code above is the add, complete, and delete icons. 
   
-    ```js
-    
+```JS
   // when trash icon is clicked, deletes task
   var allTrash = document.querySelectorAll('.gg-trash');
   allTrash.forEach(function(allTrash, trashIcon){
     allTrash.addEventListener("click",function(event){
   var remove = event.target.parentElement;
       remove.style.display = "none";
-      
-    ``` 
+```
     
 To set an example of making the icon work, we use a loop function to that allow the user to click on the trash button and their task would be deleted. 
  
- ```js 
- 
+```JS
       db.collection("todolist").get().then((snapshot) => {
         snapshot.docs.forEach(doc => {
           console.log(remove);
@@ -60,12 +56,13 @@ To set an example of making the icon work, we use a loop function to that allow 
       });
     });
   });
-  
-  ``` 
-  
+```
+
  At the same time, when the user clicked on the trash icon, the user's input task(s) is deleted in both Google Firebase and the page. This demonstrates that whenever the user refreshes the page, their deleted task would disappear. 
  
-  ```output.innerHTML += text; ```
+```JS 
+output.innerHTML += text; 
+```
   
 The output makes a "p" tag, which means whenever the user inputs the task through the add button, ```output.innerHTML += text``` allows users to input and add their task into the TODO List. 
 _________________
